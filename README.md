@@ -9,7 +9,7 @@ Runtimes may vary, based upon a combination of your Colab GPU licence (i.e. Cola
 
 N.B. The notebook will only work if the datasets (below) are already available in the /content directory of your Google Colab app.
 
-### Real-world application - datasets ###
+### Real-world application ###
 
 ### 1. California Housing Dataset ###
 
