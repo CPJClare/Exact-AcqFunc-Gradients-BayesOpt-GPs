@@ -1,6 +1,8 @@
 # Exact-AcqFunc-Gradients-BayesOpt-GPs
 Journal paper (redacted), US publisher: "Exact acquisition function gradients for Bayesian optimization with Gaussian Processes".
 
+Includes all proposed thesis chapter experiments i.e. Python code, results and graphs.
+
 Each of the Jupyter notebooks herein should run "out-of-the-box" in Google Colab.
 
 https://research.google.com/colaboratory/faq.html
